@@ -1,7 +1,5 @@
 Simple real-time chat app made with Django, Daphne, Redis, Vue and Vite. It allows to create and delete multiple chats.
 
-This image shows three pages: Home, Register and Login
-![Home, Register and Login](images/Chat1.png)
 
 test2 user login page
 ![test2 user](images/Chat2.png)
